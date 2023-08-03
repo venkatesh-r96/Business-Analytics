@@ -8,4 +8,12 @@ Topic: Data Analysis and Insights for different page Optimization & How to get m
     Your objective is to identify critical factors influencing Data Analysis and Insights for different page Optimization & How to get more user installation & Engagement from the App & Website" 
     User and propose recommendations for improving performance.
 
+
+Result: 
+* The overall analysis data is showing the app has huge user base in India(Bangalore, Patna).
+* in Event Report ,screen_view and notification_receive has the higher weightage.
+* in Page path and screen class, Flutter and main activity has the higher weightage.
+* First we have to find how this areas are getting more weightage then we have 
+  to apply the same for rest of the areas.
+*  This approach will increase the overall performace of tha app.
     
